@@ -11,5 +11,5 @@ Run:
 <p></p>
 
 <p><h3><b>Generate database data and start server</b></h3></p>
-<p>5. php artisan migrate --seed (Ensure to have created your database first with the above database name in your server)</p>
+<p>5. php artisan migrate --seed <b>NOTE:</b><i>(Ensure to have created your database first with the above database name in your server)</i></p>
 <p>6. php artisan serve</p>
