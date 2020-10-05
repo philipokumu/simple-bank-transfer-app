@@ -1,4 +1,4 @@
-Setting up
+<b>Setting up</b>
 
 Run:
 
