@@ -1,18 +1,18 @@
-<b>Setting up</b>
+<h5><b>Setting up project</b></h5>
 
 Run:
 
-#Composer update
+Composer update
 composer update
 
-#Setup the environment
+Setup the environment
 cp .env.example .env
 input your database name, database password and save
 php artisan key:generate
 
-#For environment variables to reflect
+For environment variables to reflect
 php artisan config:cache and cache:clear
 
-#Generate database data and start server
+Generate database data and start server
 php artisan migrate --seed
 php artisan serve
