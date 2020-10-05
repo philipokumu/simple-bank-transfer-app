@@ -4,7 +4,7 @@ Run:
 
 1. Composer update
 
-<p><h3><b>Setup the environment</h3></p>
+<p><h3><b>Setup the environment</b></h3></p>
 <p>2. cp .env.example .env</p>
 <p>3. input your database name, database password and save</p>
 <p>4. php artisan key:generate</p>
