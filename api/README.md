@@ -9,9 +9,9 @@ Run:
 <p>3. input your database name, database password and save</p>
 <p>4. php artisan key:generate</p>
 <p></p>
-<p><h3><b>For environment variables to reflect</h3></p>
+<p><h3><b>For environment variables to reflect</b></h3></p>
 <p>5. php artisan config:cache and cache:clear</p>
 <p></p>
-<p><h3><b>Generate database data and start server</h3></p>
+<p><h3><b>Generate database data and start server</b></h3></p>
 <p>6. php artisan migrate --seed</p>
 <p>7. php artisan serve</p>
